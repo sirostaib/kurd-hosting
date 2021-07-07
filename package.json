@@ -1,0 +1,52 @@
+{
+  "name": "bx-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons": "^4.6.2",
+    "@material-ui/core": "^4.2.1",
+    "@testing-library/dom": "^7.31.2",
+    "@testing-library/user-event": "^13.1.9",
+    "bootstrap": "^5.0.1",
+    "firebase": "^8.6.8",
+    "google-map-react": "^1.1.7",
+    "material-ui-slider": "^3.0.8",
+    "pure-react-carousel": "^1.21.1",
+    "react": "^16.8.6",
+    "react-app-rewired": "2.1.3",
+    "react-bootstrap": "^1.6.1",
+    "react-dom": "^16.8.6",
+    "react-google-maps": "^9.4.5",
+    "react-list": "^0.8.11",
+    "react-native-vector-icons": "6.6.0",
+    "react-native-web": "^0.17.0",
+    "react-redux": "^7.2.4",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^4.4.1"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test",
+    "eject": "react-app-rewired eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
